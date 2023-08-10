@@ -1,0 +1,48 @@
+body{
+    background-image: url(lilith.jpg);
+    background-size: 100% 300%;
+    background-color: #460606;
+    padding: 0px;
+    margin: 0;
+}
+h1, h2, p, ul, li{
+    color: #FFF;
+    font-family: sans-serif;
+}
+h1.title{
+    color: #FFF;
+}
+ul.header li{
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+}
+ul.header{
+    background-color: #111;
+    padding: 0;
+}
+ul.header li a{
+    color: #FFF;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 20px;
+    display: inline;
+}
+.content{
+    padding: 20px;
+}
+.content h2{
+    color: #FFF;
+    padding: 0;
+    margin: 0;
+}
+.content li{
+    color: #FFF;
+    margin-bottom: 10px;
+}
+.img{
+    right: 0px;
+    padding: 10px;
+    width: 50%;
+    height: 50%;
+}
