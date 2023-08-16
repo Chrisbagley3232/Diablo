@@ -4,8 +4,8 @@ class Contact extends Component{
     render(){
         return(
             <div>
-                <h2>Have any questions or want to read more?</h2>
-                <p>Check out our forum to keep up to date with news <a href="http://forum.kirupa.com">forums</a>
+                <h2>It Pays to Shop and Earn</h2>
+                <p>Save an average of $20 each month with Shop and Earn Monthly Rewards.
                 </p>
             </div>
         );

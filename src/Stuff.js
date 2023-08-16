@@ -4,13 +4,19 @@ class Stuff extends Component{
     render(){
         return(
             <div>
-                <h2>Season of the Malignant</h2>
-                <ol>
-                    <li>Battle Against New Malignant Monsters</li>
-                    <li>Power Up with Malignant Hearts</li>
-                    <li>Test Your Strength Against Varshan the Consumed</li>
-                    <li>6 New Uniques and 7 New Legendary Aspects</li>
-                </ol>
+                <h2>Departments</h2>
+                <div class="grid-container">
+                    <div class="new">New Arrivals</div>
+                    <div class="organic">Organic</div>
+                    <div class="local">Local</div>
+                    <div class="produce">Produce</div>
+                    <div class="meat">Meat</div>
+                    <div class="seafood">Seafood</div>
+                    <div class="deli">Deli</div>
+                    <div class="dairy">Dairy</div>
+                    <div class="bev">Beverages</div>
+                    <div class="bakery">Bakery</div>
+                </div>
             </div>
         );
     }
